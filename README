@@ -1,0 +1,35 @@
+# ✈️ Flight Prediction & Analytics Dashboard  
+
+## 📌 Project Overview  
+This is an **AI-powered flight prediction dashboard** that helps users forecast:  
+- **Flight costs** based on historical trends  
+- **Weather conditions** for the selected route  
+- **Seat availability** for different airlines  
+
+The app also includes **real-time analytics and trends**, helping users make better travel decisions.  
+
+---
+
+## 🚀 Features  
+✅ **Flight Cost & Weather Prediction**  
+✅ **User Input-Based Predictions**  
+✅ **Interactive Charts & Analytics**  
+✅ **Flight Trends & Insights**  
+✅ **Beautiful UI with Streamlit**  
+
+---
+
+## 🛠️ Tech Stack  
+- **Python** (Backend & ML Models)  
+- **Streamlit** (UI Framework)  
+- **Pandas & NumPy** (Data Processing)  
+- **Scikit-learn, ARIMA, SARIMAX** (Machine Learning Models)  
+- **Plotly** (Charts & Visualizations)  
+
+---
+
+## 🏗️ Setup & Installation  
+### **1️⃣ Clone the Repository**  
+```bash
+git clone https://github.com/RajeswariE0507/travelflightprediction
+cd travelflightprediction
